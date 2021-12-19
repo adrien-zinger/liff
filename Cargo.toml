@@ -5,6 +5,7 @@ edition = "2018"
 description = "Fast levenshtein diff, fastest as we can do with levenshtein."
 repository = "https://github.com/adrien-zinger/liff"
 authors = ["Adrien Zinger"]
+readme = "README.md"
 
 [dependencies]
 snap = "1"
