@@ -1,0 +1,15 @@
+[package]
+name = "liff"
+version = "0.1.0"
+edition = "2018"
+description = "Fast levenshtein diff, fastest as we can do with levenshtein."
+repository = "https://github.com/adrien-zinger/liff"
+authors = ["Adrien Zinger"]
+
+[dependencies]
+snap = "1"
+
+[dev-dependencies]
+levenshtein-diff = "0.2.2"
+uuid-readable-rs = "0.1.5"
+lazy_static = "1"
