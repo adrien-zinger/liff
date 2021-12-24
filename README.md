@@ -1,6 +1,5 @@
-[![CI](https://github.com/adrien-zinger/liff/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/adrien-zinger/liff/actions/workflows/ci.yml?query=branch%3Amain)
+# Liff 🍃 [![cargo version](https://img.shields.io/crates/v/liff.svg)](https://crates.io/crates/liff) [![CI](https://github.com/adrien-zinger/liff/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/adrien-zinger/liff/actions/workflows/ci.yml?query=branch%3Amain)
 
-# Liff 🍃
 Compute the diff between two vectors with the [Levenshtein](https://en.wikipedia.org/wiki/Levenshtein_distance) algorithm.
 
 Faster than other crate. Try `cargo bench` to see the difference.
