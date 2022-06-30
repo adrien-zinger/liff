@@ -3,3 +3,4 @@ diff.d
 *.d
 .DS_Store
 dest.pack
+.direnv
