@@ -1,1 +1,1 @@
-initSidebarItems({"fn":[["apply",""],["debug",""],["debug_u8_to_char",""],["diff",""],["read",""],["write",""],["write_char",""]]});
+window.SIDEBAR_ITEMS = {"fn":[["apply",""],["debug",""],["debug_u8_to_char",""],["diff",""],["read",""],["write",""],["write_char",""]]};
